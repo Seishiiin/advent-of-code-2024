@@ -39,4 +39,3 @@ Voici un aperçu des 24 défis :
 23. **Arbre de Noël ASCII** : Création d'un sapin en ASCII.
 24. **Jeu du pendu** : Jeu interactif pour deviner un mot.
 
----
